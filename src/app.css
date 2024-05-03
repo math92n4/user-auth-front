@@ -78,3 +78,7 @@ form button {
 #video {
   max-width: 100%;
 }
+
+.error {
+  color: red;
+}
